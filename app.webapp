@@ -1,0 +1,13 @@
+{
+  "name": "Hello Fx OS",
+  "description": "Test; refs http://d.hatena.ne.jp/naoya/20130124/1359018983",
+  "launch_path": "/index.html",
+  "icons": {
+    "48": "/images/icon-48x48.png"
+  },
+  "developer": {
+    "name": "isseium",
+    "url": "http://ikmz.net"
+  },
+  "default_locale": "ja"
+}
